@@ -1,5 +1,5 @@
 # Miembros
-* Nick Fury
+* Nick Fury fixe
 * Black panther
 * Black Widow
 * Capitán America
